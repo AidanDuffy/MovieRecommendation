@@ -131,3 +131,6 @@ dmypy.json
 # Miscellaneous
 Data/
 attempt*
+anduffy_project*
+*.docx
+Works*
